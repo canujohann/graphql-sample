@@ -71,7 +71,7 @@ In the header :
 
 ```
 {
-  "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTY2MzkzODY3NX0.BZgs_WbzQSJn0MB1d_hKyCst-cvEir6fcoo_XDTrLi4"
+  "Authorization": "Bearer your-token.xxx.yyy"
 }
 ```
 
